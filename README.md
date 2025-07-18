@@ -26,7 +26,19 @@ A Node.js + MongoDB-based attendance tracking system with:
          Database: MongoDB
          
          Authentication: JWT & bcrypt.js
+**Add the module**
+         
+         express – to create the backend server and handle routes.
 
+         mongoose – to connect to MongoDB and manage schemas.
+
+         cors – to allow frontend (HTML pages) to call backend APIs.
+
+         body-parser – to parse JSON request bodies.
+
+         bcryptjs – to securely hash passwords for user and admin accounts.
+
+         jsonwebtoken – to create and verify JWT tokens for authentication.
 
 **Installation & Setup**         
  
