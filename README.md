@@ -1,12 +1,19 @@
 **Geolocation-Based Attendance System**
 
 A Node.js + MongoDB-based attendance tracking system with:
+         
          Punch In / Punch Out
+         
          Geofencing (within 100 meters of office)
 
+
+
 **Features**
+         
          User Authentication – Secure login & registration with hashed passwords.
+         
          Punch In/Out – Records location and timestamp.
+         
          Geofencing – Ensures attendance is marked only within the office premises.
 
 **Tech Stack**
